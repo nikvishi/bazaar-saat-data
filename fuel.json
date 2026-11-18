@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T09:43Z",
+ "updated": "2026-11-18T09:06Z",
  "source": "Goodreturns city tables (reported prices, not official)",
  "prices": {
   "petrol": {
@@ -24,11 +24,11 @@
     "yesterday": 102.97
    },
    "Noida": {
-    "today": 101.96,
+    "today": 102.12,
     "yesterday": 101.96
    },
    "Bangalore": {
-    "today": 111.68,
+    "today": 110.44,
     "yesterday": 111.68
    },
    "Bhubaneswar": {
@@ -40,15 +40,15 @@
     "yesterday": 101.54
    },
    "Hyderabad": {
-    "today": 116.15,
+    "today": 115.71,
     "yesterday": 116.15
    },
    "Jaipur": {
-    "today": 113.19,
+    "today": 112.69,
     "yesterday": 113.19
    },
    "Lucknow": {
-    "today": 101.89,
+    "today": 102.23,
     "yesterday": 101.89
    },
    "Patna": {
@@ -68,7 +68,7 @@
     "yesterday": 97.96
    },
    "Assam": {
-    "today": 105.73,
+    "today": 106.65,
     "yesterday": 105.73
    },
    "Bihar": {
@@ -76,11 +76,11 @@
     "yesterday": 113.37
    },
    "Chhatisgarh": {
-    "today": 108.06,
+    "today": 109.73,
     "yesterday": 108.06
    },
    "Dadra and Nagar Haveli and Daman and Diu": {
-    "today": 99.44,
+    "today": 99.5,
     "yesterday": 99.44
    },
    "Delhi": {
@@ -88,11 +88,11 @@
     "yesterday": 102.12
    },
    "Goa": {
-    "today": 104.0,
+    "today": 103.92,
     "yesterday": 104.0
    },
    "Gujarat": {
-    "today": 102.04,
+    "today": 102.01,
     "yesterday": 102.04
    },
    "Haryana": {
@@ -112,7 +112,7 @@
     "yesterday": 106.19
    },
    "Karnataka": {
-    "today": 111.68,
+    "today": 110.44,
     "yesterday": 111.68
    },
    "Kerala": {
@@ -120,7 +120,7 @@
     "yesterday": 115.49
    },
    "Ladakh": {
-    "today": 110.01,
+    "today": 109.78,
     "yesterday": 110.01
    },
    "Lakshadweep": {
@@ -128,7 +128,7 @@
     "yesterday": 107.5
    },
    "Madhya Pradesh": {
-    "today": 114.36,
+    "today": 114.45,
     "yesterday": 114.36
    },
    "Maharashtra": {
@@ -144,7 +144,7 @@
     "yesterday": 102.64
    },
    "Mizoram": {
-    "today": 106.54,
+    "today": 106.96,
     "yesterday": 106.54
    },
    "Nagaland": {
@@ -164,7 +164,7 @@
     "yesterday": 105.56
    },
    "Rajasthan": {
-    "today": 113.19,
+    "today": 112.69,
     "yesterday": 113.19
    },
    "Sikkim": {
@@ -176,7 +176,7 @@
     "yesterday": 107.76
    },
    "Telangana": {
-    "today": 116.15,
+    "today": 115.71,
     "yesterday": 116.15
    },
    "Tripura": {
@@ -184,7 +184,7 @@
     "yesterday": 104.96
    },
    "Uttar Pradesh": {
-    "today": 101.89,
+    "today": 102.23,
     "yesterday": 101.89
    },
    "Uttarakhand": {
@@ -218,11 +218,11 @@
     "yesterday": 95.64
    },
    "Noida": {
-    "today": 95.44,
+    "today": 95.56,
     "yesterday": 95.44
    },
    "Bangalore": {
-    "today": 99.56,
+    "today": 98.39,
     "yesterday": 99.56
    },
    "Bhubaneswar": {
@@ -234,15 +234,15 @@
     "yesterday": 89.47
    },
    "Hyderabad": {
-    "today": 104.23,
+    "today": 103.84,
     "yesterday": 104.23
    },
    "Jaipur": {
-    "today": 98.25,
+    "today": 97.78,
     "yesterday": 98.25
    },
    "Lucknow": {
-    "today": 95.36,
+    "today": 95.71,
     "yesterday": 95.36
    },
    "Patna": {
@@ -262,7 +262,7 @@
     "yesterday": 87.32
    },
    "Assam": {
-    "today": 97.23,
+    "today": 98.07,
     "yesterday": 97.23
    },
    "Bihar": {
@@ -270,11 +270,11 @@
     "yesterday": 99.36
    },
    "Chhatisgarh": {
-    "today": 101.32,
+    "today": 103.0,
     "yesterday": 101.32
    },
    "Dadra and Nagar Haveli and Daman and Diu": {
-    "today": 95.33,
+    "today": 95.4,
     "yesterday": 95.33
    },
    "Delhi": {
@@ -282,11 +282,11 @@
     "yesterday": 95.2
    },
    "Goa": {
-    "today": 95.88,
+    "today": 95.81,
     "yesterday": 95.88
    },
    "Gujarat": {
-    "today": 98.15,
+    "today": 98.13,
     "yesterday": 98.15
    },
    "Haryana": {
@@ -294,7 +294,7 @@
     "yesterday": 96.01
    },
    "Himachal Pradesh": {
-    "today": 95.28,
+    "today": 95.13,
     "yesterday": 95.28
    },
    "Jammu & Kashmir": {
@@ -306,7 +306,7 @@
     "yesterday": 101.31
    },
    "Karnataka": {
-    "today": 99.56,
+    "today": 98.39,
     "yesterday": 99.56
    },
    "Kerala": {
@@ -314,7 +314,7 @@
     "yesterday": 104.4
    },
    "Ladakh": {
-    "today": 94.73,
+    "today": 94.51,
     "yesterday": 94.73
    },
    "Lakshadweep": {
@@ -322,7 +322,7 @@
     "yesterday": 102.8
    },
    "Madhya Pradesh": {
-    "today": 99.48,
+    "today": 99.55,
     "yesterday": 99.48
    },
    "Maharashtra": {
@@ -338,7 +338,7 @@
     "yesterday": 94.13
    },
    "Mizoram": {
-    "today": 95.16,
+    "today": 95.79,
     "yesterday": 95.16
    },
    "Nagaland": {
@@ -358,7 +358,7 @@
     "yesterday": 95.47
    },
    "Rajasthan": {
-    "today": 98.25,
+    "today": 97.78,
     "yesterday": 98.25
    },
    "Sikkim": {
@@ -370,7 +370,7 @@
     "yesterday": 99.55
    },
    "Telangana": {
-    "today": 104.23,
+    "today": 103.84,
     "yesterday": 104.23
    },
    "Tripura": {
@@ -378,7 +378,7 @@
     "yesterday": 93.85
    },
    "Uttar Pradesh": {
-    "today": 95.36,
+    "today": 95.71,
     "yesterday": 95.36
    },
    "Uttarakhand": {
