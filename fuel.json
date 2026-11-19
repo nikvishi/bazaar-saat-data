@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T09:06Z",
+ "updated": "2026-11-19T09:29Z",
  "source": "Goodreturns city tables (reported prices, not official)",
  "prices": {
   "petrol": {
@@ -63,13 +63,17 @@
     "today": 88.66,
     "yesterday": 88.66
    },
+   "Andhra Pradesh": {
+    "today": 117.51,
+    "yesterday": 117.51
+   },
    "Arunachal Pradesh": {
     "today": 97.96,
     "yesterday": 97.96
    },
    "Assam": {
     "today": 106.65,
-    "yesterday": 105.73
+    "yesterday": 106.65
    },
    "Bihar": {
     "today": 113.37,
@@ -77,11 +81,11 @@
    },
    "Chhatisgarh": {
     "today": 109.73,
-    "yesterday": 108.06
+    "yesterday": 109.73
    },
    "Dadra and Nagar Haveli and Daman and Diu": {
     "today": 99.5,
-    "yesterday": 99.44
+    "yesterday": 99.5
    },
    "Delhi": {
     "today": 102.12,
@@ -89,11 +93,11 @@
    },
    "Goa": {
     "today": 103.92,
-    "yesterday": 104.0
+    "yesterday": 103.92
    },
    "Gujarat": {
     "today": 102.01,
-    "yesterday": 102.04
+    "yesterday": 102.01
    },
    "Haryana": {
     "today": 103.35,
@@ -113,7 +117,7 @@
    },
    "Karnataka": {
     "today": 110.44,
-    "yesterday": 111.68
+    "yesterday": 110.44
    },
    "Kerala": {
     "today": 115.49,
@@ -121,7 +125,7 @@
    },
    "Ladakh": {
     "today": 109.78,
-    "yesterday": 110.01
+    "yesterday": 109.78
    },
    "Lakshadweep": {
     "today": 107.5,
@@ -129,7 +133,7 @@
    },
    "Madhya Pradesh": {
     "today": 114.45,
-    "yesterday": 114.36
+    "yesterday": 114.45
    },
    "Maharashtra": {
     "today": 111.21,
@@ -145,7 +149,7 @@
    },
    "Mizoram": {
     "today": 106.96,
-    "yesterday": 106.54
+    "yesterday": 106.96
    },
    "Nagaland": {
     "today": 104.9,
@@ -165,7 +169,7 @@
    },
    "Rajasthan": {
     "today": 112.69,
-    "yesterday": 113.19
+    "yesterday": 112.69
    },
    "Sikkim": {
     "today": 110.8,
@@ -177,7 +181,7 @@
    },
    "Telangana": {
     "today": 115.71,
-    "yesterday": 116.15
+    "yesterday": 115.71
    },
    "Tripura": {
     "today": 104.96,
@@ -185,7 +189,7 @@
    },
    "Uttar Pradesh": {
     "today": 102.23,
-    "yesterday": 101.89
+    "yesterday": 102.23
    },
    "Uttarakhand": {
     "today": 99.54,
@@ -257,13 +261,17 @@
     "today": 84.56,
     "yesterday": 84.56
    },
+   "Andhra Pradesh": {
+    "today": 105.2,
+    "yesterday": 105.2
+   },
    "Arunachal Pradesh": {
     "today": 87.32,
     "yesterday": 87.32
    },
    "Assam": {
     "today": 98.07,
-    "yesterday": 97.23
+    "yesterday": 98.07
    },
    "Bihar": {
     "today": 99.36,
@@ -271,11 +279,11 @@
    },
    "Chhatisgarh": {
     "today": 103.0,
-    "yesterday": 101.32
+    "yesterday": 103.0
    },
    "Dadra and Nagar Haveli and Daman and Diu": {
     "today": 95.4,
-    "yesterday": 95.33
+    "yesterday": 95.4
    },
    "Delhi": {
     "today": 95.2,
@@ -283,11 +291,11 @@
    },
    "Goa": {
     "today": 95.81,
-    "yesterday": 95.88
+    "yesterday": 95.81
    },
    "Gujarat": {
     "today": 98.13,
-    "yesterday": 98.15
+    "yesterday": 98.13
    },
    "Haryana": {
     "today": 96.01,
@@ -295,7 +303,7 @@
    },
    "Himachal Pradesh": {
     "today": 95.13,
-    "yesterday": 95.28
+    "yesterday": 95.13
    },
    "Jammu & Kashmir": {
     "today": 92.81,
@@ -307,7 +315,7 @@
    },
    "Karnataka": {
     "today": 98.39,
-    "yesterday": 99.56
+    "yesterday": 98.39
    },
    "Kerala": {
     "today": 104.4,
@@ -315,7 +323,7 @@
    },
    "Ladakh": {
     "today": 94.51,
-    "yesterday": 94.73
+    "yesterday": 94.51
    },
    "Lakshadweep": {
     "today": 102.8,
@@ -323,7 +331,7 @@
    },
    "Madhya Pradesh": {
     "today": 99.55,
-    "yesterday": 99.48
+    "yesterday": 99.55
    },
    "Maharashtra": {
     "today": 97.83,
@@ -339,7 +347,7 @@
    },
    "Mizoram": {
     "today": 95.79,
-    "yesterday": 95.16
+    "yesterday": 95.79
    },
    "Nagaland": {
     "today": 96.18,
@@ -359,7 +367,7 @@
    },
    "Rajasthan": {
     "today": 97.78,
-    "yesterday": 98.25
+    "yesterday": 97.78
    },
    "Sikkim": {
     "today": 97.7,
@@ -371,7 +379,7 @@
    },
    "Telangana": {
     "today": 103.84,
-    "yesterday": 104.23
+    "yesterday": 103.84
    },
    "Tripura": {
     "today": 93.85,
@@ -379,7 +387,7 @@
    },
    "Uttar Pradesh": {
     "today": 95.71,
-    "yesterday": 95.36
+    "yesterday": 95.71
    },
    "Uttarakhand": {
     "today": 95.05,
