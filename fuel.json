@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T08:45Z",
+ "updated": "2026-11-22T08:48Z",
  "source": "Goodreturns city tables (reported prices, not official)",
  "prices": {
   "petrol": {
@@ -25,11 +25,11 @@
    },
    "Noida": {
     "today": 101.96,
-    "yesterday": 102.12
+    "yesterday": 101.96
    },
    "Bangalore": {
     "today": 111.68,
-    "yesterday": 110.44
+    "yesterday": 111.68
    },
    "Bhubaneswar": {
     "today": 108.97,
@@ -41,19 +41,19 @@
    },
    "Hyderabad": {
     "today": 116.15,
-    "yesterday": 115.71
+    "yesterday": 116.15
    },
    "Jaipur": {
     "today": 113.19,
-    "yesterday": 112.69
+    "yesterday": 113.19
    },
    "Lucknow": {
     "today": 102.23,
     "yesterday": 102.23
    },
    "Patna": {
-    "today": 113.35,
-    "yesterday": 113.37
+    "today": 113.37,
+    "yesterday": 113.35
    },
    "Thiruvananthapuram": {
     "today": 115.49,
@@ -62,10 +62,6 @@
    "Andaman & Nicobar": {
     "today": 88.66,
     "yesterday": 88.66
-   },
-   "Andhra Pradesh": {
-    "today": 117.51,
-    "yesterday": 117.51
    },
    "Arunachal Pradesh": {
     "today": 97.96,
@@ -76,7 +72,7 @@
     "yesterday": 105.73
    },
    "Bihar": {
-    "today": 113.35,
+    "today": 113.37,
     "yesterday": 113.35
    },
    "Chhatisgarh": {
@@ -223,11 +219,11 @@
    },
    "Noida": {
     "today": 95.44,
-    "yesterday": 95.56
+    "yesterday": 95.44
    },
    "Bangalore": {
     "today": 99.56,
-    "yesterday": 98.39
+    "yesterday": 99.56
    },
    "Bhubaneswar": {
     "today": 100.68,
@@ -239,11 +235,11 @@
    },
    "Hyderabad": {
     "today": 104.23,
-    "yesterday": 103.84
+    "yesterday": 104.23
    },
    "Jaipur": {
     "today": 98.25,
-    "yesterday": 97.78
+    "yesterday": 98.25
    },
    "Lucknow": {
     "today": 95.71,
@@ -260,10 +256,6 @@
    "Andaman & Nicobar": {
     "today": 84.56,
     "yesterday": 84.56
-   },
-   "Andhra Pradesh": {
-    "today": 105.2,
-    "yesterday": 105.2
    },
    "Arunachal Pradesh": {
     "today": 87.32,
