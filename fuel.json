@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T08:48Z",
+ "updated": "2026-11-23T09:45Z",
  "source": "Goodreturns city tables (reported prices, not official)",
  "prices": {
   "petrol": {
@@ -53,7 +53,7 @@
    },
    "Patna": {
     "today": 113.37,
-    "yesterday": 113.35
+    "yesterday": 113.37
    },
    "Thiruvananthapuram": {
     "today": 115.49,
@@ -73,7 +73,7 @@
    },
    "Bihar": {
     "today": 113.37,
-    "yesterday": 113.35
+    "yesterday": 113.37
    },
    "Chhatisgarh": {
     "today": 108.06,
