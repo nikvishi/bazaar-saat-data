@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T10:28Z",
+ "updated": "2026-11-26T10:01Z",
  "source": "Goodreturns city tables (reported prices, not official)",
  "prices": {
   "petrol": {
@@ -24,7 +24,7 @@
     "yesterday": 102.97
    },
    "Noida": {
-    "today": 101.96,
+    "today": 102.12,
     "yesterday": 101.96
    },
    "Bangalore": {
@@ -218,7 +218,7 @@
     "yesterday": 95.64
    },
    "Noida": {
-    "today": 95.44,
+    "today": 95.56,
     "yesterday": 95.44
    },
    "Bangalore": {
