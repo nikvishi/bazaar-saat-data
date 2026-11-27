@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T10:01Z",
+ "updated": "2026-11-27T10:07Z",
  "source": "Goodreturns city tables (reported prices, not official)",
  "prices": {
   "petrol": {
@@ -20,12 +20,12 @@
     "yesterday": 107.76
    },
    "Gurgaon": {
-    "today": 102.97,
+    "today": 102.77,
     "yesterday": 102.97
    },
    "Noida": {
-    "today": 102.12,
-    "yesterday": 101.96
+    "today": 101.96,
+    "yesterday": 102.12
    },
    "Bangalore": {
     "today": 111.68,
@@ -64,7 +64,7 @@
     "yesterday": 88.66
    },
    "Arunachal Pradesh": {
-    "today": 97.96,
+    "today": 97.7,
     "yesterday": 97.96
    },
    "Assam": {
@@ -76,11 +76,11 @@
     "yesterday": 113.37
    },
    "Chhatisgarh": {
-    "today": 108.06,
+    "today": 109.73,
     "yesterday": 108.06
    },
    "Dadra and Nagar Haveli and Daman and Diu": {
-    "today": 99.44,
+    "today": 99.5,
     "yesterday": 99.44
    },
    "Delhi": {
@@ -100,7 +100,7 @@
     "yesterday": 103.35
    },
    "Himachal Pradesh": {
-    "today": 103.15,
+    "today": 103.14,
     "yesterday": 103.15
    },
    "Jammu & Kashmir": {
@@ -128,7 +128,7 @@
     "yesterday": 107.5
    },
    "Madhya Pradesh": {
-    "today": 114.36,
+    "today": 114.57,
     "yesterday": 114.36
    },
    "Maharashtra": {
@@ -214,12 +214,12 @@
     "yesterday": 99.55
    },
    "Gurgaon": {
-    "today": 95.64,
+    "today": 95.44,
     "yesterday": 95.64
    },
    "Noida": {
-    "today": 95.56,
-    "yesterday": 95.44
+    "today": 95.44,
+    "yesterday": 95.56
    },
    "Bangalore": {
     "today": 99.56,
@@ -250,7 +250,7 @@
     "yesterday": 99.36
    },
    "Thiruvananthapuram": {
-    "today": 104.4,
+    "today": 104.41,
     "yesterday": 104.4
    },
    "Andaman & Nicobar": {
@@ -258,7 +258,7 @@
     "yesterday": 84.56
    },
    "Arunachal Pradesh": {
-    "today": 87.32,
+    "today": 87.11,
     "yesterday": 87.32
    },
    "Assam": {
@@ -270,11 +270,11 @@
     "yesterday": 99.36
    },
    "Chhatisgarh": {
-    "today": 101.32,
+    "today": 103.0,
     "yesterday": 101.32
    },
    "Dadra and Nagar Haveli and Daman and Diu": {
-    "today": 95.33,
+    "today": 95.4,
     "yesterday": 95.33
    },
    "Delhi": {
@@ -294,7 +294,7 @@
     "yesterday": 96.01
    },
    "Himachal Pradesh": {
-    "today": 95.28,
+    "today": 95.27,
     "yesterday": 95.28
    },
    "Jammu & Kashmir": {
@@ -310,7 +310,7 @@
     "yesterday": 99.56
    },
    "Kerala": {
-    "today": 104.4,
+    "today": 104.41,
     "yesterday": 104.4
    },
    "Ladakh": {
@@ -322,7 +322,7 @@
     "yesterday": 102.8
    },
    "Madhya Pradesh": {
-    "today": 99.48,
+    "today": 99.64,
     "yesterday": 99.48
    },
    "Maharashtra": {
@@ -432,7 +432,7 @@
     "yesterday": 95.5
    },
    "Rewari": {
-    "today": 91.59,
+    "today": 93.59,
     "yesterday": 91.59
    },
    "Sonipat": {
@@ -444,7 +444,7 @@
     "yesterday": 86.98
    },
    "Andhra Pradesh": {
-    "today": 99.8,
+    "today": 102.8,
     "yesterday": 99.8
    },
    "Bihar": {
@@ -476,7 +476,7 @@
     "yesterday": 100.5
    },
    "Jammu & Kashmir": {
-    "today": 105.8,
+    "today": 104.9,
     "yesterday": 105.8
    },
    "Jharkhand": {
@@ -525,7 +525,7 @@
    },
    "Uttar Pradesh": {
     "today": 107.0,
-    "yesterday": 95.75
+    "yesterday": 107.0
    },
    "Uttarakhand": {
     "today": 99.9,
@@ -533,7 +533,7 @@
    },
    "West Bengal": {
     "today": 103.0,
-    "yesterday": 93.5
+    "yesterday": 103.0
    }
   }
  }
