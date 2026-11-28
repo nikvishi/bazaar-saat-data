@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T10:07Z",
+ "updated": "2026-11-28T09:26Z",
  "source": "Goodreturns city tables (reported prices, not official)",
  "prices": {
   "petrol": {
@@ -63,9 +63,13 @@
     "today": 88.66,
     "yesterday": 88.66
    },
+   "Andhra Pradesh": {
+    "today": 117.51,
+    "yesterday": 117.51
+   },
    "Arunachal Pradesh": {
     "today": 97.7,
-    "yesterday": 97.96
+    "yesterday": 97.7
    },
    "Assam": {
     "today": 105.73,
@@ -77,11 +81,11 @@
    },
    "Chhatisgarh": {
     "today": 109.73,
-    "yesterday": 108.06
+    "yesterday": 109.73
    },
    "Dadra and Nagar Haveli and Daman and Diu": {
     "today": 99.5,
-    "yesterday": 99.44
+    "yesterday": 99.5
    },
    "Delhi": {
     "today": 102.12,
@@ -101,7 +105,7 @@
    },
    "Himachal Pradesh": {
     "today": 103.14,
-    "yesterday": 103.15
+    "yesterday": 103.14
    },
    "Jammu & Kashmir": {
     "today": 104.13,
@@ -129,7 +133,7 @@
    },
    "Madhya Pradesh": {
     "today": 114.57,
-    "yesterday": 114.36
+    "yesterday": 114.57
    },
    "Maharashtra": {
     "today": 111.21,
@@ -257,9 +261,13 @@
     "today": 84.56,
     "yesterday": 84.56
    },
+   "Andhra Pradesh": {
+    "today": 105.2,
+    "yesterday": 105.2
+   },
    "Arunachal Pradesh": {
     "today": 87.11,
-    "yesterday": 87.32
+    "yesterday": 87.11
    },
    "Assam": {
     "today": 97.23,
@@ -271,11 +279,11 @@
    },
    "Chhatisgarh": {
     "today": 103.0,
-    "yesterday": 101.32
+    "yesterday": 103.0
    },
    "Dadra and Nagar Haveli and Daman and Diu": {
     "today": 95.4,
-    "yesterday": 95.33
+    "yesterday": 95.4
    },
    "Delhi": {
     "today": 95.2,
@@ -295,7 +303,7 @@
    },
    "Himachal Pradesh": {
     "today": 95.27,
-    "yesterday": 95.28
+    "yesterday": 95.27
    },
    "Jammu & Kashmir": {
     "today": 92.81,
@@ -311,7 +319,7 @@
    },
    "Kerala": {
     "today": 104.41,
-    "yesterday": 104.4
+    "yesterday": 104.41
    },
    "Ladakh": {
     "today": 94.73,
@@ -323,7 +331,7 @@
    },
    "Madhya Pradesh": {
     "today": 99.64,
-    "yesterday": 99.48
+    "yesterday": 99.64
    },
    "Maharashtra": {
     "today": 97.83,
@@ -428,7 +436,7 @@
     "yesterday": 102.0
    },
    "Meerut": {
-    "today": 96.5,
+    "today": 97.5,
     "yesterday": 95.5
    },
    "Rewari": {
